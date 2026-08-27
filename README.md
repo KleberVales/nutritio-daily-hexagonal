@@ -5,6 +5,9 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
+A modular Java application designed to help users organize and track their daily nutrition in a structured, domain-driven way.
+
+
 
 
 
